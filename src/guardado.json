@@ -1,0 +1,119 @@
+{
+  "puntajes": [
+    0,
+    0
+  ],
+  "envidoJugado": false,
+  "turnoJ1": false,
+  "cantadoTrucoActual": {
+    "canto": NOCANTADO,
+    "cantor": {
+      "nombre": "EMPTY"
+    }
+  },
+  "rondaFinalizada": false,
+  "valorEnvidoActual": 0,
+  "jugadores": [
+    {
+      "nombre": "victor"
+    },
+    {
+      "nombre": "ivan"
+    }
+  ],
+  "cartas": [
+    {
+      "palo": "ESPADA",
+      "valorEnvido": 7,
+      "valorTruco": 12,
+      "nro": 7,
+      "enJuego": false
+    },
+    {
+      "palo": "ESPADA",
+      "valorEnvido": 1,
+      "valorTruco": 14,
+      "nro": 1,
+      "enJuego": true
+    },
+    {
+      "palo": "ESPADA",
+      "valorEnvido": 2,
+      "valorTruco": 9,
+      "nro": 2,
+      "enJuego": true
+    },
+    {
+      "palo": "ESPADA",
+      "valorEnvido": 0,
+      "valorTruco": 6,
+      "nro": 11,
+      "enJuego": false
+    },
+    {
+      "palo": "ORO",
+      "valorEnvido": 6,
+      "valorTruco": 3,
+      "nro": 6,
+      "enJuego": false
+    },
+    {
+      "palo": "ESPADA",
+      "valorEnvido": 0,
+      "valorTruco": 5,
+      "nro": 10,
+      "enJuego": true
+    }
+  ],
+  "partidaFinalizada": false,
+  "victoriaJ1": false,
+  "contRondas": 2,
+  "mesa": {
+    "cartasTiradasJ2": 1,
+    "cartasTiradas": 3,
+    "cartasTiradasJ1": 2,
+    "cartasJugadasJ2": [
+      {
+        "palo": "ESPADA",
+        "valorEnvido": 0,
+        "valorTruco": 5,
+        "nro": 10,
+        "enJuego": true
+      }
+    ],
+    "cartasJugadasJ1": [
+      {
+        "palo": "ESPADA",
+        "valorEnvido": 2,
+        "valorTruco": 9,
+        "nro": 2,
+        "enJuego": true
+      },
+      {
+        "palo": "ESPADA",
+        "valorEnvido": 1,
+        "valorTruco": 14,
+        "nro": 1,
+        "enJuego": true
+      }
+    ]
+  },
+  "manoJ1": false,
+  "ganadorMano": [
+    1,
+    2,
+    0
+  ],
+  "cantadoEnvidoActual": {
+    "canto": NOCANTADO,
+    "cantor": {
+      "nombre": "EMPTY"
+    }
+  },
+  "valorEnvidoAnterior": 0,
+  "pardas": [
+    false,
+    false,
+    false
+  ]
+}
